@@ -1,0 +1,1 @@
+This is a Image categorizer project that has been solved by the help of convolutional neural network. All data are from Torob and can be found in the notebbok all the path of categorizing different goods at Torob
